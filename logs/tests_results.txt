@@ -4,6 +4,6 @@ test_get_num_letters (__main__.TestExercice) ... ok
 test_get_word_length_histogram (__main__.TestExercice) ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.001s
+Ran 4 tests in 0.000s
 
 OK
