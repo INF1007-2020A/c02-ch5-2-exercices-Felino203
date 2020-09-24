@@ -9,6 +9,7 @@ def get_num_letters(text):
 		num_letters += int(chr.isalnum())
 	return num_letters
 
+
 	#return len([None for chr in text if chr.isalnum()])
 
 def get_word_length_histogram(text):
