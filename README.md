@@ -1,14 +1,15 @@
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod-redirect-0.herokuapp.com/)
 
 
+
 ## Résultats
 Score | Critères
 --- | ---
 1/1 | Formatage d'un histogramme
-0/1 | Histogramme à colonnes verticales
+1/1 | Histogramme à colonnes verticales
 1/1 | Nombre de lettres d'un mot
 1/1 | Histogramme de longueurs de mots
-3/4 | **Total**
+4/4 | **Total**
 
 [Voir détails](./logs/tests_results.txt) | [Rafraîchir](../../)
 # Histogrammes de longueur de mots (chapitre 5.2)

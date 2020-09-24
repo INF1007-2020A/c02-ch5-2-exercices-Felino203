@@ -1,19 +1,9 @@
 test_format_histogram (__main__.TestExercice) ... ok
-test_format_horizontal_histogram (__main__.TestExercice) ... FAIL
+test_format_horizontal_histogram (__main__.TestExercice) ... ok
 test_get_num_letters (__main__.TestExercice) ... ok
 test_get_word_length_histogram (__main__.TestExercice) ... ok
-
-======================================================================
-FAIL: test_format_horizontal_histogram (__main__.TestExercice)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "test_exercice.py", line 86, in test_format_horizontal_histogram
-    self.is_same_formatting(out, exp)
-  File "test_exercice.py", line 94, in is_same_formatting
-    "Pas même nombre de lignes"
-AssertionError: 1 != 4 : Pas même nombre de lignes
 
 ----------------------------------------------------------------------
 Ran 4 tests in 0.001s
 
-FAILED (failures=1)
+OK
