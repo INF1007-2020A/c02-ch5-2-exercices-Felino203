@@ -29,13 +29,24 @@ def format_histogram(histogram):
 			continue
 		result += f"{i : >{alinment}} {ROW_CHAR * element}" + "\n"
 	return result
-	result = [f"{i : >{alinment}} {ROW_CHAR * element}" + "\n" for i, element in enumerate(histogram) if i != 0]
+	# result = [f"{i : >{alinment}} {ROW_CHAR * element}" + "\n" for i, element in enumerate(histogram) if i != 0]
 
 def format_horizontal_histogram(histogram):
 	BLOCK_CHAR = "|"
 	LINE_CHAR = "¯"
-
-	return ""
+	height = max(histogram)
+	result = ""
+	for i in range(height - 1, -1, -1):
+		for j, elem in enumerate(histogram):
+			if j == 0:
+				continue
+			if elem >= i + 1:
+				result += BLOCK_CHAR
+			else:
+				result += " "
+		result += "\n"
+	result += LINE_CHAR * (len(histogram))
+	return result
 
 
 if __name__ == "__main__":
