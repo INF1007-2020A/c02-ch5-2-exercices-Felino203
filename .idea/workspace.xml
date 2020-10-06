@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -35,10 +38,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_exercice.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../c02-ch6-3-exercices-Felino203/test_exercice.py" />
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_exercice.py">
-    <configuration name="exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.test_exercice (1)">
+    <configuration name="exercice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="c02-ch5-2-exercices-Felino203" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -46,11 +49,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../c02-ch6-3-exercices-Felino203" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercice.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../c02-ch6-3-exercices-Felino203/exercice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,26 +62,97 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_exercice.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="exercice5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="c02-ch5-2-exercices-Felino203" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../L04_TP2-l04-17" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_exercice.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../L04_TP2-l04-17/exercice5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="c02-ch5-2-exercices-Felino203" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../pythonProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../pythonProject/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_exercice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="c02-ch5-2-exercices-Felino203" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../c02-ch6-3-exercices-Felino203" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../c02-ch6-3-exercices-Felino203/test_exercice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_exercice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="c02-ch5-2-exercices-Felino203" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../c02-ch6-2-exercices-Felino203" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../c02-ch6-2-exercices-Felino203/test_exercice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_exercice.py" />
-        <item itemvalue="Python.exercice" />
+        <item itemvalue="Python.test_exercice (1)" />
+        <item itemvalue="Python.exercice (1)" />
+        <item itemvalue="Python.exercice5" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test_exercice" />
       </list>
     </recent_temporary>
   </component>
@@ -103,27 +177,32 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="737" y="268" key="FileChooserDialogImpl" timestamp="1600985923837">
+    <state x="737" y="268" key="FileChooserDialogImpl" timestamp="1601916402555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="737" y="268" key="FileChooserDialogImpl/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600985923837" />
-    <state width="1716" height="200" key="GridCell.Tab.0.bottom" timestamp="1600986018017">
+    <state x="737" y="268" key="FileChooserDialogImpl/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601916402555" />
+    <state width="1716" height="200" key="GridCell.Tab.0.bottom" timestamp="1601923268150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1716" height="200" key="GridCell.Tab.0.bottom/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600986018017" />
-    <state width="1716" height="200" key="GridCell.Tab.0.center" timestamp="1600986018017">
+    <state width="1716" height="200" key="GridCell.Tab.0.bottom/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601923268150" />
+    <state width="1716" height="200" key="GridCell.Tab.0.center" timestamp="1601923268150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1716" height="200" key="GridCell.Tab.0.center/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600986018017" />
-    <state width="1716" height="200" key="GridCell.Tab.0.left" timestamp="1600986018017">
+    <state width="1716" height="200" key="GridCell.Tab.0.center/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601923268150" />
+    <state width="1716" height="200" key="GridCell.Tab.0.left" timestamp="1601923268150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1716" height="200" key="GridCell.Tab.0.left/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600986018017" />
-    <state width="1716" height="200" key="GridCell.Tab.0.right" timestamp="1600986018017">
+    <state width="1716" height="200" key="GridCell.Tab.0.left/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601923268150" />
+    <state width="1716" height="200" key="GridCell.Tab.0.right" timestamp="1601923268150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1716" height="200" key="GridCell.Tab.0.right/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1600986018017" />
+    <state width="1716" height="200" key="GridCell.Tab.0.right/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601923268150" />
+    <state x="624" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1601922795751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="233" width="672" height="678" key="search.everywhere.popup/-1920.591.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601922795751" />
   </component>
 </project>
